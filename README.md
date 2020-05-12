@@ -1,2 +1,2 @@
 # docker-alpine-perl
-Docker for perl on alpine
+Docker image based on Alpine Linux with perl package installed.
